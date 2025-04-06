@@ -23,7 +23,7 @@ get           :   http://localhost:5000/api/variants/:id    or   localhost:5000/
 get/post      :   http://localhost:5000/api/models          or   localhost:5000/api/models               (api is used to get the models and to add the models)
 
 NOTE 1: all  post api calls are created for to insert the data using Admin panel(enabled in angular project) in this case you need to add colors,categories,accessories,features,etc.....
-NOTE 2: or you can directly import form mogodb compass (files are added in the db folder....) in this case you can choose the client when angular project loads(localhost:4200)
+NOTE 2: or you can directly import form mogodb compass (files are added in the db folder (db files)) in this case you can choose the client when angular project loads(localhost:4200)
         steps 
         when the project run collections are creted atomatically choose the collection to import the data and click on add data and select importJSON or CSV file
 
