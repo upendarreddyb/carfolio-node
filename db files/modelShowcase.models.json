@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "67f2d5244bef13de01576d58"
+  },
+  "name": "TATA-NEXON",
+  "description": "The Nexon is a spacious and comfortable SUV that looks good, is equipped with several modern features, and boasts a five-star safety rating. It is also complimented for its ride quality, adequate performance, and high-speed stability.",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-74.jpeg?isig=0&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d7534bef13de01576e1a"
+  },
+  "name": "SWIFT",
+  "description": "The Maruti Suzuki Swift is a popular, compact hatchback known for its fuel efficiency, practicality, and a balance of features and performance",
+  "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/9226/1739945896166/front-left-side-47.jpg?tr=w-664",
+  "variants": [
+    {
+      "$oid": "67f2d4e94bef13de01576d51"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d7ee4bef13de01576e24"
+  },
+  "name": "TOYAT",
+  "description": "The Fortuner commands the road with its imposing stance, 4x4 capability, and is known for Toyota's bulletproof reliability. It's a comfortable seven-seater SUV that covers long distances with ease and comfort.\n\n",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d4e94bef13de01576d51"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2da014bef13de01576e34"
+  },
+  "name": "THAR",
+  "description": "This new-gen Thar is still a two-door off-roader but drives reasonably well on the road. Its USP continues with durable construction and a rugged stance despite having a modern design. Both petrol and diesel engine options are powerful, offering 4x4 as well.",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-37.jpeg?isig=0&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2da514bef13de01576e3e"
+  },
+  "name": "KIA",
+  "description": "The Kia Seltos is a more well-rounded package than its pre-facelift model. It has a modern design and offers segment-first features, Level 2 ADAS, and a turbo-petrol engine option, in addition to conventional petrol and diesel variants.",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/174323/seltos-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2dab04bef13de01576e4a"
+  },
+  "name": "TATA-CURVV",
+  "description": "The Tata Curvv EV is the electric version of the 5-seater SUV-coupe, which is also available with traditional petrol and diesel engines",
+  "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Curvv-EV/8935/1738313320522/front-left-side-47.jpg?tr=w-664",
+  "variants": [
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2dcc54bef13de01576e67"
+  },
+  "name": "CRETA",
+  "description": "This mid-size SUV looks premium with consistent quality. Its cabin is spacious and gets modern equipment as well. It drives well whether one chooses the petrol or diesel engine powertrain with smooth gearboxes.\n\n",
+  "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta-Electric/11523/1738068021618/front-left-side-47.jpg?tr=w-664",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2dd184bef13de01576e71"
+  },
+  "name": "Renault Triber",
+  "description": "Renault offers 3 car models in India, including 1 car in SUV category, 1 car in Hatchback category, 1 car in MUV/MPV category. Renault has 4 upcoming cars in India, Triber facelift, 2025 Kwid, New Duster and Bigste",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4e94bef13de01576d51"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2dda34bef13de01576e79"
+  },
+  "name": "RANGE ROVER",
+  "description": "The Range Rover is a luxury sport utility vehicle (SUV) known for its off-road capability and opulent comfort, with a history spanning over 50 years and evolving through multiple generations. ",
+  "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/153319/range-rover-velar-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80&q=80",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2ddee4bef13de01576e81"
+  },
+  "name": "DEFENDER",
+  "description": "The Land Rover Defender impresses with three- and five-door options, and a choice of four petrol and one diesel engine. Its unusual road presence, ...",
+  "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Land-Rover/Defender/12031/1736238344955/exterior-image-166.jpg",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2de574bef13de01576e8b"
+  },
+  "name": "Rolls-Royce Spectre",
+  "description": "Rolls-Royce is a British luxury carmaker that produces the Phantom, Ghost, Spectre, and Cullinan models. The Rolls-Royce Cullinan is an SUV, while the Spectre is an all-electric car. ",
+  "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Spectre/11100/1705661590820/front-left-side-47.jpg?tr=w-664",
+  "variants": [
+    {
+      "$oid": "67f2d4e94bef13de01576d51"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2df484bef13de01576e9f"
+  },
+  "name": "BMW",
+  "description": "BMW stands for Bayerische Motoren Werke, which translates to Bavarian Motor Works in English, and is a German multinational manufacturer of luxury vehicles and motorcycles, headquartered in Munich, Bavaria, Germany",
+  "image": "https://www.carsome.my/news/wp-content/uploads/2023/07/BMW-M-Cars.jpg",
+  "variants": [
+    {
+      "$oid": "67f2d46c4bef13de01576d35"
+    },
+    {
+      "$oid": "67f2d4884bef13de01576d3c"
+    },
+    {
+      "$oid": "67f2d4a24bef13de01576d43"
+    },
+    {
+      "$oid": "67f2d4d44bef13de01576d4a"
+    }
+  ],
+  "__v": 0
+}]

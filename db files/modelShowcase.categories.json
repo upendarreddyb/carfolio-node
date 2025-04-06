@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "67f2c7b54bef13de01576cc8"
+  },
+  "name": "Seat Cover",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8a44bef13de01576cca"
+  },
+  "name": "Floor Mats",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8b64bef13de01576ccc"
+  },
+  "name": "Alloy Wheels",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8be4bef13de01576cce"
+  },
+  "name": "Fog Lights",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8c74bef13de01576cd0"
+  },
+  "name": "Door Visor",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8d34bef13de01576cd2"
+  },
+  "name": "Spoiler",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8dd4bef13de01576cd4"
+  },
+  "name": "Wireless Charger",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8ee4bef13de01576cd8"
+  },
+  "name": "Car Perfume",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c8f74bef13de01576cda"
+  },
+  "name": "Rain Guard",
+  "type": "accessory",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c9234bef13de01576cde"
+  },
+  "name": " Touchscreen Display",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c92a4bef13de01576ce0"
+  },
+  "name": "Rear Parking Camer",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c9314bef13de01576ce2"
+  },
+  "name": " ABS with EBD",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c9394bef13de01576ce4"
+  },
+  "name": "Push Start Button",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c9424bef13de01576ce6"
+  },
+  "name": " Android Auto",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c94c4bef13de01576ce8"
+  },
+  "name": "  Reverse Camera",
+  "type": "feature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c9554bef13de01576cea"
+  },
+  "name": "Digital Cluster",
+  "type": "feature",
+  "__v": 0
+}]

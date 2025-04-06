@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "67f2d46c4bef13de01576d35"
+  },
+  "name": "BASE",
+  "price": 1000000,
+  "colors": [
+    {
+      "$oid": "67f2c6184bef13de01576ca9"
+    },
+    {
+      "$oid": "67f2c66a4bef13de01576cab"
+    },
+    {
+      "$oid": "67f2c6884bef13de01576cad"
+    }
+  ],
+  "accessories": [
+    {
+      "$oid": "67f2caee4bef13de01576cfa"
+    },
+    {
+      "$oid": "67f2cc014bef13de01576d10"
+    },
+    {
+      "$oid": "67f2cb314bef13de01576d06"
+    },
+    {
+      "$oid": "67f2cc4b4bef13de01576d12"
+    }
+  ],
+  "features": [
+    {
+      "$oid": "67f2cb6d4bef13de01576d0d"
+    },
+    {
+      "$oid": "67f2ce394bef13de01576d23"
+    },
+    {
+      "$oid": "67f2ce904bef13de01576d25"
+    },
+    {
+      "$oid": "67f2cefa4bef13de01576d27"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d4884bef13de01576d3c"
+  },
+  "name": "MID",
+  "price": 120000,
+  "colors": [
+    {
+      "$oid": "67f2c66a4bef13de01576cab"
+    },
+    {
+      "$oid": "67f2c6884bef13de01576cad"
+    },
+    {
+      "$oid": "67f2c6a04bef13de01576caf"
+    }
+  ],
+  "accessories": [
+    {
+      "$oid": "67f2caee4bef13de01576cfa"
+    },
+    {
+      "$oid": "67f2cb314bef13de01576d06"
+    },
+    {
+      "$oid": "67f2cc014bef13de01576d10"
+    },
+    {
+      "$oid": "67f2cc4b4bef13de01576d12"
+    },
+    {
+      "$oid": "67f2ccbb4bef13de01576d16"
+    }
+  ],
+  "features": [
+    {
+      "$oid": "67f2ce904bef13de01576d25"
+    },
+    {
+      "$oid": "67f2ce394bef13de01576d23"
+    },
+    {
+      "$oid": "67f2cefa4bef13de01576d27"
+    },
+    {
+      "$oid": "67f2cf604bef13de01576d29"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d4a24bef13de01576d43"
+  },
+  "name": "TOP",
+  "price": 1500000,
+  "colors": [
+    {
+      "$oid": "67f2c6184bef13de01576ca9"
+    },
+    {
+      "$oid": "67f2c66a4bef13de01576cab"
+    },
+    {
+      "$oid": "67f2c6884bef13de01576cad"
+    },
+    {
+      "$oid": "67f2c6a04bef13de01576caf"
+    },
+    {
+      "$oid": "67f2c6c74bef13de01576cb1"
+    }
+  ],
+  "accessories": [
+    {
+      "$oid": "67f2caee4bef13de01576cfa"
+    },
+    {
+      "$oid": "67f2cc4b4bef13de01576d12"
+    },
+    {
+      "$oid": "67f2cc7f4bef13de01576d14"
+    },
+    {
+      "$oid": "67f2ccbb4bef13de01576d16"
+    },
+    {
+      "$oid": "67f2cd124bef13de01576d18"
+    }
+  ],
+  "features": [
+    {
+      "$oid": "67f2cf604bef13de01576d29"
+    },
+    {
+      "$oid": "67f2cefa4bef13de01576d27"
+    },
+    {
+      "$oid": "67f2ce904bef13de01576d25"
+    },
+    {
+      "$oid": "67f2ce394bef13de01576d23"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d4d44bef13de01576d4a"
+  },
+  "name": "EV",
+  "price": 1800000,
+  "colors": [
+    {
+      "$oid": "67f2c6184bef13de01576ca9"
+    },
+    {
+      "$oid": "67f2c66a4bef13de01576cab"
+    },
+    {
+      "$oid": "67f2c6c74bef13de01576cb1"
+    },
+    {
+      "$oid": "67f2c6a04bef13de01576caf"
+    }
+  ],
+  "accessories": [
+    {
+      "$oid": "67f2cc7f4bef13de01576d14"
+    },
+    {
+      "$oid": "67f2cc4b4bef13de01576d12"
+    },
+    {
+      "$oid": "67f2cc014bef13de01576d10"
+    },
+    {
+      "$oid": "67f2cb314bef13de01576d06"
+    },
+    {
+      "$oid": "67f2caee4bef13de01576cfa"
+    },
+    {
+      "$oid": "67f2ccbb4bef13de01576d16"
+    }
+  ],
+  "features": [
+    {
+      "$oid": "67f2cefa4bef13de01576d27"
+    },
+    {
+      "$oid": "67f2ce904bef13de01576d25"
+    },
+    {
+      "$oid": "67f2cf604bef13de01576d29"
+    },
+    {
+      "$oid": "67f2d02c4bef13de01576d2d"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2d4e94bef13de01576d51"
+  },
+  "name": "GAS",
+  "price": 1600000,
+  "colors": [
+    {
+      "$oid": "67f2c6c74bef13de01576cb1"
+    },
+    {
+      "$oid": "67f2c6e64bef13de01576cb3"
+    },
+    {
+      "$oid": "67f2c6a04bef13de01576caf"
+    }
+  ],
+  "accessories": [
+    {
+      "$oid": "67f2caee4bef13de01576cfa"
+    },
+    {
+      "$oid": "67f2cb314bef13de01576d06"
+    },
+    {
+      "$oid": "67f2cc014bef13de01576d10"
+    },
+    {
+      "$oid": "67f2cc4b4bef13de01576d12"
+    }
+  ],
+  "features": [
+    {
+      "$oid": "67f2cfd94bef13de01576d2b"
+    },
+    {
+      "$oid": "67f2cf604bef13de01576d29"
+    },
+    {
+      "$oid": "67f2cefa4bef13de01576d27"
+    },
+    {
+      "$oid": "67f2ce904bef13de01576d25"
+    },
+    {
+      "$oid": "67f2ce394bef13de01576d23"
+    }
+  ],
+  "__v": 0
+}]

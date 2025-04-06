@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67f2caee4bef13de01576cfa"
+  },
+  "name": "Floor Mat",
+  "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIhTNWDeEMz98sKJAd3oW29JWt6aOzaDEbURhVCxi1Jkz0_0lYnzKLRpGPJacwPvc7bRkyJ2uusxxs0yqNbZWJz811TL1FTRbeXYAdyQ7UMd0ZKIkQBp_a",
+  "categoryId": {
+    "$oid": "67f2c8a44bef13de01576cca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cb314bef13de01576d06"
+  },
+  "name": "Alloy Wheels",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRf-icbF66jk_mElyucQ3Rkr-k80nNf45yylbLku77tP39NphM3DVJs88f45bZ0oKJLK8mV1uy8fpbFwVqMd5pHKDmhFKx61VOxAFbzPlEr_S8XQx0SUdpf8VE",
+  "categoryId": {
+    "$oid": "67f2c8b64bef13de01576ccc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cc014bef13de01576d10"
+  },
+  "name": "Fog Light",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpCZfXrpsyvbprjPBCvx1L9syExQZ7Lg0UkkAu_0I1LmkOobwMH9Sbg9qJY4V5hrvpH54ZWPoF4faCzblnbvHgrgYZAgXOmpdKXf16d8MbP4iUxOYo-l2RTQ",
+  "categoryId": {
+    "$oid": "67f2c8be4bef13de01576cce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cc4b4bef13de01576d12"
+  },
+  "name": "Door Visor",
+  "imageUrl": "https://images.meesho.com/images/products/352225381/v9udf_512.webp",
+  "categoryId": {
+    "$oid": "67f2c8c74bef13de01576cd0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cc7f4bef13de01576d14"
+  },
+  "name": "Spoiler",
+  "imageUrl": "https://www.amazon.in/ATORSE%C2%AE-Universal-Spoiler-Installation-Silver/dp/B0CG3SGZQZ",
+  "categoryId": {
+    "$oid": "67f2c8d34bef13de01576cd2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2ccbb4bef13de01576d16"
+  },
+  "name": "Wrieless Charger",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-bxjJXurbiJrM2x3W1oCKZqXa5KOKKBf1MqWVJqlA8QQKDhia2FIOtyRZIm8eDa7p1nFghtzz3LdnyvhzrD5QZaEO_ggm3Sd48WwkYPZIS6tlZzrvN5Z9rA",
+  "categoryId": {
+    "$oid": "67f2c8dd4bef13de01576cd4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cd124bef13de01576d18"
+  },
+  "name": "Car Perfume",
+  "imageUrl": "https://www.meesho.com/lucky-traders-solar-energy-rotating-car-perfume-with-long-lasting-french-organic-fragrancepack-of-15/p/6qwbwy",
+  "categoryId": {
+    "$oid": "67f2c8ee4bef13de01576cd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2cd6e4bef13de01576d1a"
+  },
+  "name": "Rain Gurd",
+  "imageUrl": "https://www.amazon.in/AUTOXYGEN-Deflector-Honda-Jazz-Onwards/dp/B075WYXJ3V?ref_=Oct_d_omwf_d_5257522031_1&pd_rd_w=tiBao&content-id=amzn1.sym.78f1db53-4ba7-4189-87eb-ee865bdc1bcf&pf_rd_p=78f1db53-4ba7-4189-87eb-ee865bdc1bcf&pf_rd_r=A8DJBMQ33RWWHTZVC7E0&pd_rd_wg=YXjWD&pd_rd_r=97aac6dd-2692-466c-9fcd-090d9f174505&pd_rd_i=B075WYXJ3V",
+  "categoryId": {
+    "$oid": "67f2c8f74bef13de01576cda"
+  },
+  "__v": 0
+}]

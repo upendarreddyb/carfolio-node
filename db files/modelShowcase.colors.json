@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67f2c6184bef13de01576ca9"
+  },
+  "name": "White",
+  "hexCode": "#ffffff",
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c66a4bef13de01576cab"
+  },
+  "name": "red",
+  "hexCode": "#f60002",
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c6884bef13de01576cad"
+  },
+  "name": "Blue",
+  "hexCode": "#0000f6",
+  "price": 11000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c6a04bef13de01576caf"
+  },
+  "name": "Silver",
+  "hexCode": "#bebebe",
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c6c74bef13de01576cb1"
+  },
+  "name": "Black",
+  "hexCode": "#000000",
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c6e64bef13de01576cb3"
+  },
+  "name": "Gray",
+  "hexCode": "#7c7c7c",
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2c7564bef13de01576cb9"
+  },
+  "name": "Meteor Bronze\t",
+  "hexCode": "#6e4b3a",
+  "price": 9500,
+  "__v": 0
+}]
