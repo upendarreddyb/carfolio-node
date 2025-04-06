@@ -26,3 +26,24 @@ NOTE 1: all  post api calls are created for to insert the data using Admin panel
 NOTE 2: or you can directly import form mogodb compass (files are added in the db folder....) in this case you can choose the client when angular project loads(localhost:4200)
         steps 
         when the project run collections are creted atomatically choose the collection to import the data and click on add data and select importJSON or CSV file
+
+
+
+STEPS TO ANGULAR PROJECT:
+REQUIREMENTS
+    version 18
+installations 
+  npm i bootstrap
+Run the project:
+  npm start
+you run on the port http://localhost:4200
+ 1.you will see a screen Select Role and 2 buttons youn choose direclty client/user (note:choose if data is inserted by mongodb compass)
+ 2.if you choose admin
+    you can instart the data like colors,categories,accessories,features,models and repective screens are added 
+    once you don with insertion comeback and choose the clint/user
+    you will see the all models.
+    if you clisk on any verient like mid,top,ev you can navigate to the varients page where you can see the  availabe colors,fetures and accssories
+  
+ 3.implemented serch funcinality on Search models, variants, or accessories
+
+    
